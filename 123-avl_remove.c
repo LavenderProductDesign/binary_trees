@@ -1,14 +1,13 @@
 #include "binary_trees.h"
-
 /**
-* avl_remove - pending.
-* @root: pending.
-* @value: pending.
-* Return: pending.
-*/
+ * avl_remove - ?
+ * @root: ?
+ * @value: ?
+ * Return: ?
+ */
 avl_t *avl_remove(avl_t *root, int value)
 {
-	if (!root)
-		return (NULL);
-	return (root);
+	(void) root;
+	(void) value;
+	return (NULL);
 }
